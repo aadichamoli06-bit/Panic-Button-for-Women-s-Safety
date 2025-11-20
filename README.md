@@ -2,6 +2,7 @@
 
 A simple desktop app that sends instant SOS alerts through Telegram with live location info.
 
+
 📋 Features: 
 
 Admin panel for managing users, locations, and contacts
@@ -19,7 +20,8 @@ Threaded sending so the UI never freezes
 Alerts saved in alerts.json
 
 
-🛠️ Tech Stack
+
+🛠️ Tech Stack: 
 
 • Python 3 
 
