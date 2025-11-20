@@ -1,4 +1,4 @@
-🚨 Panic Alert System (Python + Tkinter)
+🚨 Panic Alert System (Python + Tkinter): 
 A simple desktop app that sends instant SOS alerts through Telegram with live location info.
 
 📋 Features: 
