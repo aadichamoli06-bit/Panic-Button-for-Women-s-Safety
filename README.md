@@ -19,11 +19,15 @@ Threaded sending so the UI never freezes
 Alerts saved in alerts.json
 
 
-🛠️ Tech Stack: 
+🛠️ Tech Stack
 
-Python 3 
-Tkinter 
-Requests (Telegram API) 
-JSON 
-Threading 
-SHA-256
+• Python 3 
+
+• Tkinter 
+
+• Requests (Telegram API) 
+
+• JSON • Threading 
+
+• SHA-256
+
